@@ -8,3 +8,9 @@ GraphScheduleEngine使用：
 3、	启动GraphScheduleEngine
 4、	配置任务，创建一个名为任务worker_name的消息队列
 5、	在任务worker中订阅"ReduceQueue"消息，并将任务完成状态发布至worker_name
+
+GraphScheduleEngine是我本人为了协调诸多Java,python,shell编写的不同数据挖掘任务、进行任务调度、监测的项目。
+各项功能、代码的健壮性，需要有兴趣的同行一同来完善、发展这个项目，欢迎与本人
+邮箱：bchengzhou@163.com 
+blog: http://blog.csdn.net/zbc1090549839
+进行交流讨论。
